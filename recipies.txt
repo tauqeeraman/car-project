@@ -6,6 +6,8 @@ kheer
 pasta
 french fry
 
+pasta
+pizza
 
 thank you
 
